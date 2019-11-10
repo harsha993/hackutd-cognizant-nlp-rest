@@ -1,3 +1,4 @@
 textblob
 django
 djangorestframework
+django-cors-headers
