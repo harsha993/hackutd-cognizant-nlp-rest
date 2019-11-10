@@ -2,3 +2,5 @@ textblob
 django
 djangorestframework
 django-cors-headers
+gunicorn
+django-heroku
